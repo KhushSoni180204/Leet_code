@@ -1,7 +1,4 @@
 int reverse(int x){
-   #include <stdio.h>
-#include <limits.h>  // For INT_MAX and INT_MIN
-
     int rev = 0;
     while (x != 0) {
         int mod = x % 10;
