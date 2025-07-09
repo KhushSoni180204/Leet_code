@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KhushSoni180204/Leet_code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KhushSoni180204/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KhushSoni180204/Leet_code/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/KhushSoni180204/Leet_code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KhushSoni180204/Leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/KhushSoni180204/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/KhushSoni180204/Leet_code/tree/master/0118-pascals-triangle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KhushSoni180204/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/KhushSoni180204/Leet_code/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -58,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KhushSoni180204/Leet_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/KhushSoni180204/Leet_code/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
